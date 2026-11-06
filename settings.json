@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "AFKagent1",
-    "password": "",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
     "ip": "playoneblock1.aternos.me",
     "port": 61809,
-    "version": "chalol78",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
